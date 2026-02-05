@@ -1,0 +1,5 @@
+#the requirements.txt file will contain all the packages needs to install.
+numpy
+pandas
+seaborn
+-e . #auto trigger setup.py
