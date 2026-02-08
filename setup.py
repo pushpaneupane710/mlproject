@@ -23,7 +23,7 @@ version="0.0.1",
 author="push",
 author_email="pushpaneupane710@gmail.com",
 packages=find_packages(),
-#install_requires=get_requirements("requirements.txt")
-install_requires=["pandas","numpy","seaborn","scikit-learn"]
+install_requires=get_requirements("requirements.txt")
+#install_requires=["pandas","numpy","seaborn","scikit-learn"]
          
 )

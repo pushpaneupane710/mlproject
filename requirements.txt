@@ -2,4 +2,5 @@
 numpy
 pandas
 seaborn
--e . #auto trigger setup.py
+matplotlib
+#-e . #auto trigger setup.py
